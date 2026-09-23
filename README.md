@@ -9,4 +9,4 @@ Realiza las siguientes tareas para trabajar con fuentes:
 3.- En la misma página, utiliza diferentes google fonts, con etiquetas <link> o etiquetas @import. 
 
 
-[Ver la pagina](https://theyinyan.github.io/UD1_ACT2_Desarrollo-de-interfaces/)/)
+[Ver la pagina](https://theyinyan.github.io/UD1_ACT2_Desarrollo-de-interfaces/)
